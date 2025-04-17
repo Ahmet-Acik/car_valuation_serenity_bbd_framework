@@ -1,0 +1,19 @@
+VARIANT_REG,STATUS
+AD58 VNF,VALID
+BW57 BOF,VALID
+KT17 DLX,VALID
+SG18 HTN,VALID
+RJ69 KFE,VALID
+BK21 ZVD,VALID
+MF10 VZS,VALID
+BMW,The license plate number is not recognised
+VNF,The license plate number is not recognised
+3000,The license plate number is not recognised
+BOF,The license plate number is not recognised
+DLX,The license plate number is not recognised
+HTN,The license plate number is not recognised
+KFE,The license plate number is not recognised
+ZVD,The license plate number is not recognised
+VZS,The license plate number is not recognised
+XYX,The license plate number is not recognised
+ABC,The license plate number is not recognised

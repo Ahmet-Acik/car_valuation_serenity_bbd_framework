@@ -1,0 +1,26 @@
+VARIANT_REG,MAKE,MODEL,YEAR
+AD58VNF,BMW,120D M SPORT,2008
+BW57BOF,TOYOTA,YARIS T2,2008
+KT17DLX,SKODA,SUPERB SPORTLINE TDI S-A,2017
+D12VEN,VOLKSWAGEN,GOLF SE NAVIGATION TSI EVO,2018
+RJ69KFE,AUDI,Q2 S LINE BLACK EDITION 30 TDI,2020
+BK21ZVD,PEUGEOT,2008 ALLURE PREMIUM PTECH S/S,2021
+MF10VZS,AUDI,A3 S LINE SP EDITION TFSI,2010
+BMW,The license plate number is not recognised
+VNF,The license plate number is not recognised
+3000,The license plate number is not recognised
+BOF,The license plate number is not recognised
+DLX,The license plate number is not recognised
+HTN,The license plate number is not recognised
+KFE,The license plate number is not recognised
+ZVD,The license plate number is not recognised
+VZS,The license plate number is not recognised
+XYX,The license plate number is not recognised
+ABC,The license plate number is not recognised
+INVALID123,The license plate number is not recognised
+1,The license plate number is not recognised
+A,The license plate number is not recognised
+A1A,The license plate number is not recognised
+AAA,The license plate number is not recognised
+AA00,The license plate number is not recognised
+AA00 XXX,The license plate number is not recognised
